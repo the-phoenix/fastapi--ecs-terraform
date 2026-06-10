@@ -5,3 +5,7 @@ variable "aws_region" {
 variable "app_name" {
   default = "fastapi-ecs-demo"
 }
+
+variable "image_tag" {
+  default = "latest"
+}
