@@ -1,0 +1,1 @@
+<!-- 154586926477.dkr.ecr.us-east-1.amazonaws.com/fastapi-ecs-demo -->
